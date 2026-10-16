@@ -1,0 +1,6 @@
+{
+  "name": "My Telugu AI Assistant",
+  "description": "మొబైల్-ఫ్రెండ్లీ తెలుగు AI వ్యక్తిగత సహాయకుడు - చదువు, అనువాదం, రెజ్యూమ్, పరీక్షలు మరియు రోజువారీ ప్రణాళిక కోసం.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
